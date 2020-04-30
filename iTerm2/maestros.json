@@ -44,7 +44,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.47524076700210571
   },
-  "Horizontal Spacing" : 1,
+  "Custom Directory" : "No",
   "Right Option Key Sends" : 0,
   "Rows" : 40,
   "Default Bookmark" : "No",
@@ -92,10 +92,10 @@
   "Sync Title" : false,
   "Prompt Before Closing 2" : false,
   "BM Growl" : true,
+  "Mouse Reporting" : true,
   "Command" : "",
   "Description" : "Default",
   "Space" : 0,
-  "Mouse Reporting" : true,
   "Screen" : -1,
   "Selection Color" : {
     "Red Component" : 0.70196080207824707,
@@ -333,7 +333,7 @@
     "Green Component" : 0.99263292551040649
   },
   "ASCII Ligatures" : true,
-  "Name" : "Default",
+  "Name" : "Maestros",
   "Cursor Text Color" : {
     "Red Component" : 0,
     "Color Space" : "sRGB",
@@ -354,8 +354,9 @@
     "Color Space" : "sRGB",
     "Blue Component" : 0.11764705926179886,
     "Alpha Component" : 1,
-    "Green Component" : 0.098039217293262482
+    "Green Component" : 0.098039217293262454
   },
+  "Transparency" : 0.037850967639593905,
   "Ansi 1 Color" : {
     "Red Component" : 0.7074432373046875,
     "Color Space" : "sRGB",
@@ -363,14 +364,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.23660069704055786
   },
-  "Ansi 2 Color" : {
-    "Red Component" : 0,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0,
-    "Alpha Component" : 1,
-    "Green Component" : 0.7607843279838562
-  },
-  "Custom Directory" : "No",
+  "Horizontal Spacing" : 1,
   "Ansi 4 Color" : {
     "Red Component" : 0.15404300391674042,
     "Color Space" : "sRGB",
@@ -401,6 +395,12 @@
     "Alpha Component" : 1,
     "Green Component" : 0.55789834260940552
   },
-  "Transparency" : 0.12581297588832488,
-  "Guid" : "8EF11554-E3DB-43FE-8E53-400BCC33E398"
+  "Guid" : "8EF11554-E3DB-43FE-8E53-400BCC33E398",
+  "Ansi 2 Color" : {
+    "Red Component" : 0,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0,
+    "Alpha Component" : 1,
+    "Green Component" : 0.7607843279838562
+  }
 }
