@@ -15,3 +15,4 @@
 * [Slack](https://slack.com/intl/en-gr/downloads/mac?geocode=en-gr)
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Zoom](https://zoom.us/download#client_4meeting)
+* [Chrome Canary](https://www.google.com/chrome/canary/)
